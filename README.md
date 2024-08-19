@@ -251,4 +251,4 @@ Why the improved prompt is more effective:
 Clarity: It clearly states the task to be performed.
 Specificity: It defines the exact models and criteria for comparison.
 Conciseness: It avoids unnecessary words and gets straight to the point.
-By providing specific details, the AI can focus on generating relevant information and avoid going off on tangents.
+By providing specific details, the AI can focus on generating relevant information and avoid going off on tangents. 
